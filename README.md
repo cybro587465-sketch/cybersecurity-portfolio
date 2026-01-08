@@ -14,7 +14,7 @@ Each project mirrors real-world security analyst and GRC workflows.
 
 ---
 
-## 🔐 Featured Projects
+## Featured Projects
 
 ### 1. SSH Hardening & Nmap Enumeration Lab
 **Focus:** Secure remote access, cryptographic controls, vulnerability remediation  
@@ -26,7 +26,7 @@ Each project mirrors real-world security analyst and GRC workflows.
 - Implemented remediation
 - Validated control effectiveness with follow-up scans
 
-➡️ Repository: `ssh-nmap-grc-lab`
+ Repository: `ssh-nmap-grc-lab`
 
 ---
 
@@ -38,11 +38,11 @@ Each project mirrors real-world security analyst and GRC workflows.
 - Generated audit evidence from auth.log
 - Mapped events to compliance controls
 
-➡️ Repository: `logging-audit-controls`
+ Repository: `logging-audit-controls`
 
 ---
 
-## 🧠 Methodology
+##  Methodology
 
 Each project follows a consistent lifecycle:
 1. Build environment
@@ -54,12 +54,12 @@ Each project follows a consistent lifecycle:
 
 ---
 
-## 📌 Why This Portfolio Exists
+##  Why This Portfolio Exists
 
 This portfolio demonstrates applied cybersecurity skills, not just tool usage.  
 Projects are documented as they would be in security assessments, audits, or compliance reviews.
 
 ---
 
-## 📫 Contact
-(LinkedIn URL here)
+## Contact
+LinkedIn:
