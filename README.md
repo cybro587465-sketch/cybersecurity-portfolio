@@ -1,5 +1,3 @@
-# cybersecurity-portfolio
-
 # Cybersecurity & GRC Portfolio
 
 This repository serves as a curated portfolio of hands-on cybersecurity and governance, risk, and compliance (GRC) projects.
